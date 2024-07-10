@@ -1,0 +1,6 @@
+print("Olá! Deixe eu me apresentar\n")
+print("Nome: Henrique Gomes Brandão Reis")
+print("Idade: 23 anos")
+print("Emprego: desempregrado")
+print("Endereço: São Paulo,Brasil")
+print("Local de nascimento: São Paulo/SP")
